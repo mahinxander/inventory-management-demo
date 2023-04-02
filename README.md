@@ -8,7 +8,7 @@ The <span style='color:red;'>Inventory Management app demo built in</span> using
 
 ## License
 
-This Weather App Project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This Project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Demo Screenshots
 
