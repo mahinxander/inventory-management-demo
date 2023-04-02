@@ -2,7 +2,7 @@
     <meta name='keywords' content='fxml, java, json, openweather'>
 </head>
 
-## <span style='color:green;'>Inventory</span> Management Project - <span style='color:pink;'>Using FXML</span>
+## <span style='color:green;'>Inventory</span> Management Project - <span style='color:pink;'>For basic purpose</span>
 
 The <span style='color:red;'>Inventory Management app demo built in</span> using <span style='color:red;'>java in netbeans</span>.
 
